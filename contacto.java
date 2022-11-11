@@ -1,3 +1,11 @@
+ /*
+ * @author Erick Barrera 
+ * @author Juan Arroyave
+ * @date 11- 11 - 2022
+ * Clase contacto para crear contactos en un arraylist
+ */
+
+
 public class contacto {
     private String nombre;
     private String numero;
